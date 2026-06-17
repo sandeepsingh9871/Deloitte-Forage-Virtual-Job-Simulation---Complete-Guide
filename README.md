@@ -84,7 +84,7 @@ The best part? I made the first chart act as a filter. Click on "Seiko" and the 
 
 Here's my actual Tableau dashboard output:
 
-![Daikibo Factory Downtime Analysis](file:///mnt/user-data/uploads/Task_1.png)
+![Daikibo Factory Downtime Analysis](<img width="900" height="838" alt="image" src="https://github.com/user-attachments/assets/eb5acf04-1dde-47c1-9710-aaefd9057be2" />)
 
 **Dashboard Title:** Daikibo Factory Downtime Analysis
 
@@ -302,7 +302,7 @@ Skills: Tableau, Data Analysis, Excel, Business Intelligence
 ## 📸 My Actual Work
 
 ### Dashboard Screenshot
-![My Tableau Dashboard - Daikibo Factory Downtime Analysis](file:///mnt/user-data/uploads/Task_1.png)
+![My Tableau Dashboard - Daikibo Factory Downtime Analysis](<img width="900" height="838" alt="image" src="https://github.com/user-attachments/assets/49824c06-d761-4b88-b6ea-0cebc2c25595" />)
 
 This is exactly what I submitted for Task 1. You can see:
 - Factory comparison (Seiko is clearly worst)
