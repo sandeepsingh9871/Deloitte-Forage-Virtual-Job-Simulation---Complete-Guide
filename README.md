@@ -84,7 +84,8 @@ The best part? I made the first chart act as a filter. Click on "Seiko" and the 
 
 Here's my actual Tableau dashboard output:
 
-![Daikibo Factory Downtime Analysis](<img width="900" height="838" alt="image" src="https://github.com/user-attachments/assets/eb5acf04-1dde-47c1-9710-aaefd9057be2" />)
+**Daikibo Factory Downtime Analysis**
+<img width="900" height="838" alt="image" src="https://github.com/user-attachments/assets/eb5acf04-1dde-47c1-9710-aaefd9057be2" />
 
 **Dashboard Title:** Daikibo Factory Downtime Analysis
 
